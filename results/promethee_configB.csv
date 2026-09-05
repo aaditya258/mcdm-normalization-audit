@@ -1,0 +1,7 @@
+scenario,config,tau_b,top1_agree,identical
+Nominal,Config A,1.0,1.0,1.0
+Nominal,Config B,0.9926666666666666,0.9982,0.9782
+Vibration,Config A,1.0,1.0,1.0
+Vibration,Config B,0.9954,0.9986,0.9862
+High Temp + Maintenance,Config A,1.0,1.0,1.0
+High Temp + Maintenance,Config B,0.9961333333333334,0.999,0.9888

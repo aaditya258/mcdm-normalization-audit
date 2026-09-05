@@ -1,0 +1,10 @@
+scenario,cell,method,tau_b,divergence_rate
+Nominal,N,WSM-V,0.9884,0.0346
+Nominal,A,TOPSIS-mm,0.9873333333333334,0.0376
+Nominal,NA,TOPSIS,0.9757333333333332,0.0698
+Vibration,N,WSM-V,0.9924,0.0228
+Vibration,A,TOPSIS-mm,0.9909333333333334,0.0268
+Vibration,NA,TOPSIS,0.9831333333333334,0.0482
+High Temp + Maintenance,N,WSM-V,0.9936666666666666,0.0184
+High Temp + Maintenance,A,TOPSIS-mm,0.993,0.0204
+High Temp + Maintenance,NA,TOPSIS,0.9864666666666666,0.0382

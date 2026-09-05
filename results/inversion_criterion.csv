@@ -1,0 +1,19 @@
+scenario,pair,non_dominated_rate,predicted_rate,observed_wsm_rate,observed_topsis_rate,accuracy_wsm,accuracy_topsis,n_pred,n_obs_topsis,n_hit,recall_topsis,precision_topsis
+Nominal,Pump-Turbine,1.0,0.0012,0.0012,0.0064,1.0,0.9948,6,32,6,0.1875,1.0
+Nominal,Pump-Sensor,0.0368,0.0042,0.0042,0.0096,1.0,0.9946,21,48,21,0.4375,1.0
+Nominal,Pump-Valve,0.0418,0.0014,0.0014,0.0028,1.0,0.9986,7,14,7,0.5,1.0
+Nominal,Turbine-Sensor,0.0338,0.0034,0.0034,0.0108,1.0,0.9926,17,54,17,0.3148148148148148,1.0
+Nominal,Turbine-Valve,0.0396,0.0012,0.0012,0.0028,1.0,0.9984,6,14,6,0.42857142857142855,1.0
+Nominal,Sensor-Valve,0.7876,0.0234,0.0234,0.0404,1.0,0.983,117,202,117,0.5792079207920792,1.0
+Vibration,Pump-Turbine,1.0,0.0004,0.0004,0.0054,1.0,0.995,2,27,2,0.07407407407407407,1.0
+Vibration,Pump-Sensor,0.0288,0.0032,0.0032,0.007,1.0,0.9962,16,35,16,0.45714285714285713,1.0
+Vibration,Pump-Valve,0.0306,0.0018,0.0018,0.0036,1.0,0.9982,9,18,9,0.5,1.0
+Vibration,Turbine-Sensor,0.0206,0.0024,0.0024,0.0066,1.0,0.9958,12,33,12,0.36363636363636365,1.0
+Vibration,Turbine-Valve,0.0248,0.001,0.001,0.0016,1.0,0.999,5,8,4,0.5,0.8
+Vibration,Sensor-Valve,0.792,0.014,0.014,0.0264,1.0,0.9876,70,132,70,0.5303030303030303,1.0
+High Temp + Maintenance,Pump-Turbine,1.0,0.0002,0.0002,0.0038,1.0,0.9964,1,19,1,0.05263157894736842,1.0
+High Temp + Maintenance,Pump-Sensor,0.0184,0.003,0.003,0.0062,1.0,0.9968,15,31,15,0.4838709677419355,1.0
+High Temp + Maintenance,Pump-Valve,0.0244,0.0012,0.0012,0.002,1.0,0.9988,6,10,5,0.5,0.8333333333333334
+High Temp + Maintenance,Turbine-Sensor,0.021,0.0034,0.0034,0.0072,1.0,0.9962,17,36,17,0.4722222222222222,1.0
+High Temp + Maintenance,Turbine-Valve,0.03,0.0024,0.0024,0.0044,1.0,0.998,12,22,12,0.5454545454545454,1.0
+High Temp + Maintenance,Sensor-Valve,0.6724,0.0088,0.0088,0.017,1.0,0.9918,44,85,44,0.5176470588235295,1.0
